@@ -15,6 +15,14 @@ Console.WrieLine($"The multiplication of a and b is {multiplication}.");
 
 int a= 5;
 int b= 6;
+ Subtraction
 int sub = a - b;
 Console.WrieLine($"The sub of a and b is {sub}.");
+Multiplication
  Subtraction
+
+
+int sum = a+ b;
+Console.WrieLine($"The sum of a and b is {sum}.");
+ Addition
+Subtraction
