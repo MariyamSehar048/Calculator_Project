@@ -1,2 +1,6 @@
 Console.WriteLine("SEhar");
 Console.WriteLine("24_ST_048");
+int a= 5;
+int b= 6;
+int sum = a+ b;
+Console.WrieLine($"The sum of a and b is {sum}.");
