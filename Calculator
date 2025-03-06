@@ -1,2 +1,6 @@
 Console.WriteLine("SEhar");
 Console.WriteLine("24_ST_048");
+int a= 5;
+int b= 6;
+int sub = a - b;
+Console.WrieLine($"The sub of a and b is {sub}.");
